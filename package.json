@@ -22,5 +22,11 @@
         "@types/react-dom": "^16.8.0",
         "@types/react-native": "^0.57.34",
         "typescript": "^3.3.3"
+    },
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "csstype": "^2.6.2"
     }
 }
