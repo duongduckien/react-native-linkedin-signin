@@ -10,7 +10,7 @@ import {
     Image,
 } from 'react-native';
 
-export default class LinkedInLogin extends Component<{}> {
+export default class LinkedInSignIn extends Component<{}> {
 
     render() {
         return (
