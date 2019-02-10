@@ -1,0 +1,26 @@
+{
+    "name": "react-native-linkedin-signin",
+    "version": "0.0.1",
+    "description": "React Native sign in via LinkedIn",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+        "build": "rm -rf ./lib && tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/duongduckien/react-native-linkedin-signin.git"
+    },
+    "author": "Duong Kien",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/duongduckien/react-native-linkedin-signin/issues"
+    },
+    "homepage": "https://github.com/duongduckien/react-native-linkedin-signin#readme",
+    "devDependencies": {
+        "@types/react": "^16.8.2",
+        "@types/react-dom": "^16.8.0",
+        "@types/react-native": "^0.57.34",
+        "typescript": "^3.3.3"
+    }
+}
